@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hello world!
 
-<!--
-**Pedrfernandes/Pedrfernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
 
-Here are some ideas to get you started:
+Code by day, dream of Japan by night. On a mission to level up and become a dev. 💻☕️
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Techs
+
+### Frontend
+
+<div text-align="justify">
+
+<img src="https://img.shields.io/badge/html5-20232A?style=for-the-badge&logo=html5&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/css3-20232A?style=for-the-badge&logo=css3&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Js-20232A?style=for-the-badge&logo=Javascript&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Ts-20232A?style=for-the-badge&logo=typescript&logoColor=61DAFB" />
+
+### Backend
+
+<img src="https://img.shields.io/badge/node.js-20232A?style=for-the-badge&logo=node.js&logoColor=61DAFB" />
