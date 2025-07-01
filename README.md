@@ -1,8 +1,7 @@
 # Hello world!
 
 ### About me
-
-Code by day, dream of Japan by night. On a mission to level up and become a dev. 💻☕️
+Coding my path to Japan. One line at a time. 🇯🇵☕️
 <br>
 
 ## Techs
